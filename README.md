@@ -1,12 +1,12 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif)
 
-<h1 align="center">Hi 👋, I'm [Abderrahmen Benali]</h1>
+<h1 align="center">Hi 👋, I'm Abderrahmen Benali</h1>
 <h3 align="center">A Passionate Web Developer & Network Engineer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/1*um19N_oeTKlmrHMov0O5bA.gif">
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=[Dahmanyy]&label=Profile%20views&color=0e75b6&style=flat" alt="[Dahmanyy]" /> 
+  <img src="https://komarev.com/ghpvc/?username=Dahmanyy&label=Profile%20views&color=0e75b6&style=flat" alt="Dahmanyy" /> 
 </p>
 
 - 🔭 I’m currently working on **full-stack web projects with JavaScript, PHP, and Python**
@@ -41,8 +41,8 @@
 </p>
 
 <!-- GitHub Stats - Replace with your actual username -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=[your-github-username]&show_icons=true&locale=en&layout=compact" alt="[your-github-username]" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dahmanyy&show_icons=true&locale=en&layout=compact" alt="Dahmanyy" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=[your-github-username]&show_icons=true&locale=en" alt="[your-github-username]" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Dahmanyy&show_icons=true&locale=en" alt="Dahmanyy" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=[your-github-username]&" alt="[your-github-username]" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dahmanyy&" alt="Dahmanyy" /></p>
