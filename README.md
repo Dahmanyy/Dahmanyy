@@ -33,6 +33,6 @@
 | **Telecom / Access Technologies** | FO, DSL, FTTH, MSAN, DSLAM |
 | **Other Tools**       | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="72" height="72"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="72" height="72"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="72" height="72"/> |
 
-<p align="center">
+<p align="right">
   <img src="https://cdnl.iconscout.com/lottie/premium/thumb/cloud-development-animation-gif-download-8048982.gif" alt="Network Engineering" width="300"/>
 </p>
