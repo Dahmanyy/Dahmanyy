@@ -19,7 +19,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  https://www.instagram.com/dahmany_
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="maazouzselim93" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abderrahmen-benali-5842892ab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abderrahmen-benali-5842892ab/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/19617479/mohamed-selim-maazouz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mohamed selim maazouz" height="30" width="40" /></a>
+<a href="https://instagram.com/sam_69_cs.money" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sam_69_cs.money" height="30" width="40" /></a>
+</p>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
