@@ -1,5 +1,6 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif)
-
+<p align="center">
+ ![MasterHead](https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif)
+<p align="center">
 <h1 align="center">Hi 👋, I'm Abderrahmen Benali</h1>
 <h3 align="center">A Passionate Web Developer & Network Engineer</h3>
 
@@ -34,15 +35,6 @@
 | **Network Engineering** | ![Cisco](https://raw.githubusercontent.com/devicons/devicon/master/icons/cisco/cisco-original-wordmark.svg) ![Wireshark](https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg) |
 | **Other Tools**       | ![Git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg) ![VS Code](https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg) ![Bash](https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg) |
 
-<!-- Optional visual section -->
 <p align="center">
   <img src="https://cdnl.iconscout.com/lottie/premium/thumb/cloud-development-animation-gif-download-8048982.gif" alt="Network Engineering" width="300"/>
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="300"/>
 </p>
-
-<!-- GitHub Stats - Replace with your actual username -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dahmanyy&show_icons=true&locale=en&layout=compact" alt="Dahmanyy" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Dahmanyy&show_icons=true&locale=en" alt="Dahmanyy" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dahmanyy&" alt="Dahmanyy" /></p>
