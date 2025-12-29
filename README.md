@@ -24,34 +24,12 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="left">
-
-**Languages**  
-| | | | | |
-|:---:|:---:|:---:|:---:|:---:|
-| ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) | ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg) | ![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg) | ![PHP](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg) | ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) |
-
-**Databases**  
-| |
-|:---:|
-| ![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg) |
-
-**Operating Systems**  
-| | | |
-|:---:|:---:|:---:|
-| ![Windows](https://img.icons8.com/fluency/48/windows-10.png) | ![Arch Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg) | ![Kali Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg) |
-
-**Network Engineering**  
-| | |
-|:---:|:---:|
-| ![Cisco](https://raw.githubusercontent.com/devicons/devicon/master/icons/cisco/cisco-original-wordmark.svg) | ![Wireshark](https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg) |
-
-**Other Tools**  
-| | | |
-|:---:|:---:|:---:|
-| ![Git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg) | ![VS Code](https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg) | ![Bash](https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg) |
-
-</p>
+| Category              | Technologies |
+|:----------------------|:-------------|
+| **Languages**         | ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg) ![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg) ![PHP](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg) ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) |
+| **Databases**         | ![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg) |
+| **Operating Systems** | ![Windows](https://img.icons8.com/fluency/48/windows-10.png) ![Arch Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg) ![Kali Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg) <!-- Kali uses generic Linux icon --> |
+| **Network Engineering** | ![Cisco](https://raw.githubusercontent.com/devicons/devicon/master/icons/cisco/cisco-original-wordmark.svg) ![Wireshark](https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg) |
 
 <p align="center">
   <img src="https://cdnl.iconscout.com/lottie/premium/thumb/cloud-development-animation-gif-download-8048982.gif" alt="Network Engineering" width="300"/>
