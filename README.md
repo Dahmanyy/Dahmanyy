@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abderrahmen Benali</h1>
+<h1 align="center">Heyy 👋, I'm Abderrahmen Benali</h1>
 <h3 align="center">A Passionate Web Developer & Network Engineer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/1*um19N_oeTKlmrHMov0O5bA.gif">
@@ -9,14 +9,12 @@
 
 - 🔭 I’m currently working on **full-stack web projects with JavaScript, PHP, and Python**
 
-- 🌱 I’m currently learning **advanced networking, cybersecurity tools, and backend optimization**
+- 🌱 I’m currently learning **advanced networking and cybersecurity tools**
 
 - 👨‍💻 Skilled in **front-end & back-end web development and network engineering**
 
-- 💬 Ask me about **JS, HTML5, CSS3, PHP, MySQL, Python, networking concepts, or Linux systems**
-
-- ⚡ Fun fact **I love tweaking Arch Linux setups and exploring ethical hacking tools on Kali Linux**
-
+- 💬 Ask me about **HTML5, CSS3, MySQL, networking concepts, Pc hardware, software or OS**
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://x.com/dahmany_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Dahmany" height="30" width="40" /></a>
