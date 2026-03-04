@@ -1,4 +1,4 @@
-<h1 align="center">Heyy 👋, I'm Abderrahmen Benali</h1>
+<h1 align="center">Heyy, I'm Abderrahmen Benali</h1>
 <h3 align="center">A Passionate Web Developer & Network Engineer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/1*um19N_oeTKlmrHMov0O5bA.gif">
