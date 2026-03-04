@@ -7,13 +7,13 @@
   <img src="https://komarev.com/ghpvc/?username=Dahmanyy&label=Profile%20views&color=0e75b6&style=flat" alt="Dahmanyy" /> 
 </p>
 
-- 🔭 I’m currently working on **full-stack web projects with JavaScript, PHP, and Python**
+- I’m currently working on **full-stack web projects with JavaScript, PHP, and Python**
 
-- 🌱 I’m currently learning **advanced networking and cybersecurity tools**
+- I’m currently learning **advanced networking and cybersecurity tools**
 
-- 👨‍💻 Skilled in **front-end & back-end web development and network engineering**
+- Skilled in **front-end & back-end web development and network engineering**
 
-- 💬 Ask me about **HTML5, CSS3, MySQL, networking concepts, Pc hardware, software or OS**
+- Ask me about **HTML5, CSS3, MySQL, networking concepts, Pc hardware, software or OS**
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,7 +30,7 @@
 | **Languages**         | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="72" height="72"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="72" height="72"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="72" height="72"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="72" height="72"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="72" height="72"/> |
 | **Databases**         | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="72" height="72"/> |
 | **Operating Systems** | <img src="https://img.icons8.com/fluency/48/windows-10.png" width="72" height="72"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" width="72" height="72"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kalilinux/kalilinux-original.svg" width="72" height="72"/> |
-| **Telecom / Access Technologies** | FO, DSL, FTTH, MSAN, DSLAM |
+| **Telecom / Access Technologies** | FO, xDSL, FTTx, MSAN, DSLAM |
 | **Other Tools**       | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="72" height="72"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="72" height="72"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="72" height="72"/> |
 
 <p align="right">
