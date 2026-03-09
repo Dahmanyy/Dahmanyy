@@ -11,9 +11,9 @@
 
 - I’m currently learning **advanced networking and cybersecurity tools**
 
-- Skilled in **front-end & back-end web development and network engineering**
+- Skilled in **Front-end & Back-end Web development and Network engineering**
 
-- Ask me about **HTML5, CSS3, MySQL, networking concepts, Pc hardware, software or OS**
+- Ask me about **HTML5, CSS3, MySQL, Networking concepts, Pc Hardware, Software or OS**
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
